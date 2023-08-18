@@ -5,6 +5,7 @@ Images not included in GitHub due to size of image files.
 
 Files:
 
+
 web_crawler.py - Use iCrawler web crawlers to collect images from Bing and Google and store the URLs in a database (images.db)
 
 image_review.py - Manually review each image to ensure they are Rocky Mountain Goats and in the correct class. Also houses function to remove unwanted images
