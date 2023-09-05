@@ -19,13 +19,17 @@ custom_model.ipynb - CNN for predicting Rocky Mountain Goat sex
 The mobile_app directory contains the Swift files necessary to build the mobile application in Xcode. These files will not compile on their own, but they do provide a good starting point for creating the mobile app on another machine.
 
 Login Screen:
+
 <img src="https://github.com/trevor-leach803/Project_GOAT/blob/main/mobile_app/app_screenshots/LoginScreen.PNG" width="400" />
 
 Image Selection Screen:
+
 <img src="https://github.com/trevor-leach803/Project_GOAT/blob/main/mobile_app/app_screenshots/ImageSelection.PNG" width="400" />
 
 Result of Image Classification Screen:
+
 <img src="https://github.com/trevor-leach803/Project_GOAT/blob/main/mobile_app/app_screenshots/ImageClassification.PNG" width="400" />
 
 Previous Submissions Screen:
-<img src="https://github.com/trevor-leach803/Project_GOAT/blob/main/mobile_app/app_screenshots/PreviousSubmittions.PNG" width="400" />
+
+<img src="https://github.com/trevor-leach803/Project_GOAT/blob/main/mobile_app/app_screenshots/PreviousSubmissions.PNG" width="400" />
