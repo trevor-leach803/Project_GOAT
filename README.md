@@ -15,3 +15,5 @@ AWS_S3.py - Upload the list of cleaned images from images.db to S3 buckets
 example_model.ipynb - CNN tutorial using TensorFlow
 
 custom_model.ipynb - CNN for predicting Rocky Mountain Goat sex
+
+The mobile_app directory contains the Swift files necessary to build the mobile application in Xcode. These files will not compile on their own, but they do provide a good starting point for creating the mobile app on another machine.
